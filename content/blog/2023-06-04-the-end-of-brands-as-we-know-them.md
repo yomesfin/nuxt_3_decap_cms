@@ -7,6 +7,10 @@ description: The evolution of brands and creativity in the age of AI.
 
 In her early thirties with two kids, [Ayako Tanaka is a Japanese Instagrammer](https://www.instagram.com/ayako_tanaka_/) with a focus on fashion and motherhood. She has 168k followers on Instagram, a respectable but modest following compared to numerous influencers with many more followers these days.
 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NMThdHhrLoM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Not too long ago, she curated a two-day pop-up shopping event during which she supposedly generated as much revenue as a flagship store of a major international apparel brand would on its opening day.
 
 A decade ago, an individual with adequate reach selling as much as a major brand with an ample amount of awareness was inconceivable. What happened over the last decade that makes this possible now?
