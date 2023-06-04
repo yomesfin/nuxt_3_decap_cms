@@ -29,7 +29,6 @@ const { data: posts } = await useAsyncData("posts", () => {
 const { data: qpos } = await useAsyncData("blogposts", () =>
   queryContent("/blog").find()
 );
-console.log("qpos", qpos.value);
 </script>
 
 <template>
