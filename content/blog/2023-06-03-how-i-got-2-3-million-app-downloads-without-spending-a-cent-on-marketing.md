@@ -1,6 +1,7 @@
 ---
 title: How I got 2.3 million app downloads (without spending a cent on marketing)
 date: 2023-06-03T20:34:52.800Z
+thumbnail: /img/digital_marketing.png
 description: The story of how an app I built in 6 hours got 2.3 million
   downloads, generated a full-time salary and was acquired after 18 months.
 ---
