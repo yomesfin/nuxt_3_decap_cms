@@ -1,6 +1,7 @@
 ---
 title: The end of brands as we know them
 date: 2023-06-04T08:29:29.585Z
+thumbnail: /images/jeff-sheldon-9syokyrq-re-unsplash.jpg
 description: The evolution of brands and creativity in the age of AI.
 ---
 ![The Evolution of Brands & Creativity in the Age of AI](https://miro.medium.com/v2/resize:fit:1000/0*KSt6Gc-hQRhCnCDp.jpeg)
