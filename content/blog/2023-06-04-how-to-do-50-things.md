@@ -1,6 +1,7 @@
 ---
 title: How to Do 50 Things
 date: 2023-06-04T08:25:34.653Z
+thumbnail: /img/grant.jpg
 description: From drawing a bird to forgiving your ex
 ---
 ![](https://miro.medium.com/v2/resize:fit:700/1*3svEkiA7_VValgIwRInkVw.jpeg)
@@ -12,6 +13,17 @@ Afew years ago, I was feeling lost. “Stuck in the weeds” was how I kept refe
 One day, I woke up feeling tired of the voice. So I decided to slap back. “Surely I can do some things!” I said out loud. (A word of advice: It’s best to argue with the mean voices in your head in the privacy of your own home.)
 
 I decided to make this a project: I would write about how to do things. Over the past few years, I’ve shared advice on everything from [how to substitute eggs](http://www.sophielucidojohnson.com/blogblog/2017/9/18/how-to-substitute-eggs) and [how to do a French braid](http://www.sophielucidojohnson.com/blogblog/2017/10/9/how-to-do-and-dont-your-hair) to [how to visit the Chicago Field Museum](http://www.sophielucidojohnson.com/blogblog/2017/9/29/how-to-visit-the-chicago-field-museum-and-what-to-do-there) and [how to write Roman numerals](http://www.sophielucidojohnson.com/blogblog/2017/10/24/how-to-do-roman-numerals). Eventually, I started feeling better. I realized I knew how to do a lot of things! I’d finally gotten unstuck.
+
+
+
+```
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+```
+
+
 
 Maybe you would also like to get unstuck. So here’s how to do 50 things. Some of these are things I know how to do well. Others I probably have no place offering guidance on. But the project is done. I hope it inspires you to think about what you know how to do. I bet it’s more than you realize.
 
