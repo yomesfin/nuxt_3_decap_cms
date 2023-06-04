@@ -25,6 +25,11 @@ useHead({
 const { data: posts } = await useAsyncData("posts", () => {
   return fetchContentNavigation(queryContent("blog"));
 });
+
+const { data: qpos } = await useAsyncData("blogposts", () =>
+  queryContent("/blog").find()
+);
+console.log("qpos", qpos.value);
 </script>
 
 <template>
@@ -41,6 +46,8 @@ const { data: posts } = await useAsyncData("posts", () => {
         v-for="article in list"
         :key="article._path"
       >
+        <img :src="`../static/${article.thumbnail}`" v-if="article.thumbnail" />
+        <!-- <img src="../static/img/grant.jpg" /> -->
         <h2>{{ article.title }}</h2>
         <p>{{ article.description }}</p>
       </NuxtLink>
