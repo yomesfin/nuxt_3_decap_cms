@@ -46,8 +46,8 @@ console.log("qpos", qpos.value);
         v-for="article in list"
         :key="article._path"
       >
-        <img :src="`../static/${article.thumbnail}`" v-if="article.thumbnail" />
-        <!-- <img src="../static/img/grant.jpg" /> -->
+        <img :src="`${article.thumbnail}`" v-if="article.thumbnail" />
+        <!-- <img src="@//img/grant.jpg" /> -->
         <h2>{{ article.title }}</h2>
         <p>{{ article.description }}</p>
       </NuxtLink>
