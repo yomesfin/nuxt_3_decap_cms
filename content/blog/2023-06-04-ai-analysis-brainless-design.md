@@ -1,6 +1,7 @@
 ---
 title: AI analysis, brainless design
 date: 2023-06-04T08:30:39.266Z
+thumbnail: /img/grant.jpg
 description: We need to build a habit of questioning AI.
 ---
 
