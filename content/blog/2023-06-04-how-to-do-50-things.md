@@ -16,12 +16,12 @@ I decided to make this a project: I would write about how to do things. Over the
 
 
 
-```markdown
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-```
+| **Syntax** | **Description** |
+| ---------- | --------------- |
+| Header     | Title           |
+| Paragraph  | Text            |
+
+
 
 
 
